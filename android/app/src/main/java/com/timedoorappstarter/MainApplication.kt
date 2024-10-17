@@ -1,4 +1,4 @@
-package com.timedoorappstarter
+package com.playground
 
 import android.app.Application
 import com.facebook.react.PackageList
